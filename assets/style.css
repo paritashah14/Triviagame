@@ -6,11 +6,12 @@ body{
 
 .jumbotron{
 	 
-	 padding-bottom:auto;
+	 padding-bottom:200%;
 	 opacity: 0.6;
 	 box-sizing: border-box;
 	 height:600px;
 	 background-color: pink;
+
 }
 
 h1{
@@ -66,4 +67,14 @@ h2{
    text-align: center;
    margin-bottom: 10%;
    margin-top: 10%
+}
+.row{
+	color: blue;
+	text-align: center;
+	font-size:30px;
+
+
+}
+.time-remaining{
+	color:red;
 }
